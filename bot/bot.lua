@@ -221,6 +221,7 @@ function create_config( )
       "channels",
       "set",
       "stats",
+     sudo_users= {arsiiz},--sudo users
       "time",
       "version",
       "weather",
